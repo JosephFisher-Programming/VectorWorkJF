@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\s199027\source\repos\vectors\vectors\tvector.h(56): warning C4018: '<': signed/unsigned mismatch
+  c:\users\s199027\source\repos\vectors\vectors\tvector.h(51): note: while compiling class template member function 'tVector<int>::tVector(const tVector<int> &)'
+  c:\users\s199027\source\repos\vectors\vectors\main.cpp(32): note: see reference to function template instantiation 'tVector<int>::tVector(const tVector<int> &)' being compiled
+  c:\users\s199027\source\repos\vectors\vectors\main.cpp(9): note: see reference to class template instantiation 'tVector<int>' being compiled
+c:\users\s199027\source\repos\vectors\vectors\tlinkedlist.h(169): warning C4018: '>': signed/unsigned mismatch
+  c:\users\s199027\source\repos\vectors\vectors\tlinkedlist.h(168): note: while compiling class template member function 'void tForwardList<int>::resize(size_t)'
+  c:\users\s199027\source\repos\vectors\vectors\main.cpp(28): note: see reference to function template instantiation 'void tForwardList<int>::resize(size_t)' being compiled
+  c:\users\s199027\source\repos\vectors\vectors\main.cpp(20): note: see reference to class template instantiation 'tForwardList<int>' being compiled
+c:\users\s199027\source\repos\vectors\vectors\tvector.h(88): warning C4018: '<': signed/unsigned mismatch
+  c:\users\s199027\source\repos\vectors\vectors\tvector.h(83): note: while compiling class template member function 'void tVector<int>::reserve(size_t)'
+  c:\users\s199027\source\repos\vectors\vectors\tvector.h(105): note: see reference to function template instantiation 'void tVector<int>::reserve(size_t)' being compiled
+  c:\users\s199027\source\repos\vectors\vectors\tvector.h(51): note: while compiling class template member function 'tVector<int>::tVector(const tVector<int> &)'
+  c:\users\s199027\source\repos\vectors\vectors\main.cpp(32): note: see reference to function template instantiation 'tVector<int>::tVector(const tVector<int> &)' being compiled
+c:\users\s199027\source\repos\vectors\vectors\tvector.h(94): warning C4018: '<': signed/unsigned mismatch
+  Vectors.vcxproj -> C:\Users\s199027\source\repos\Vectors\Debug\Vectors.exe
